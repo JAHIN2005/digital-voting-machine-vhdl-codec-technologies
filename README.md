@@ -29,7 +29,7 @@ digital-voting-machine-vhdl-codec-technologies/
 │
 ├── 📁 Structural Model
 │   └── (files inside here)
-
-By Md Jahin Sabur
 │
 └── 📄 README.md
+
+By Md Jahin Sabur
