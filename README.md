@@ -1,2 +1,8 @@
 # Digital Voting Machine VHDL - Codec Technologies Internship
-Digital Voting Machine with Secure Memory implemented in VHDL. Internship project at Codec Technologies.
+A digital voting machine implemented in both Behavioral model and Structural model. The design was first implemented in behavioral and then in structural using components.
+
+# 1) Behavioral model
+The behavioral model is designed by using the finite state machine. This gives a clear understanding of its working.
+
+# 2) Structural model
+It is made by adding an asynchronous reset up counter as its components. The number of counters added dpend upon the number of candidates to vote for.
