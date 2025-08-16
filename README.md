@@ -17,19 +17,6 @@ Developed as part of **Codec Technologies Internship 2025**.
 - ModelSim / Vivado
 - GitHub for version control
 
-## Folder Structure
 
-digital-voting-machine-vhdl-codec-technologies/
-│
-├── 📁 Behavioral Model (VHDL Codes)
-│   └── (files inside here)
-│
-├── 📁 Images
-│   └── (project images go here)
-│
-├── 📁 Structural Model
-│   └── (files inside here)
-│
-└── 📄 README.md
 
 By Md Jahin Sabur
