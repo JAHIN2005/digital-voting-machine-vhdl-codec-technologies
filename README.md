@@ -1,7 +1,7 @@
 # Digital Voting Machine with Secure Memory
 
 ## Overview
-This project implements a **Digital Voting Machine (DVM)** using VHDL on an FPGA platform.  
+This project implements a **Digital Voting Machine (DVM)** using VHDL.  
 It supports secure vote storage, multiple candidates, and error handling.  
 Developed as part of **Codec Technologies Internship 2025**.
 
@@ -29,5 +29,7 @@ digital-voting-machine-vhdl-codec-technologies/
 │
 ├── 📁 Structural Model
 │   └── (files inside here)
+
+By Md Jahin Sabur
 │
 └── 📄 README.md
