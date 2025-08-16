@@ -6,3 +6,5 @@ The behavioral model is designed by using the finite state machine. This gives a
 
 # 2) Structural Model
 It is made by adding an asynchronous reset up counter as its components. The number of counters added dpend upon the number of candidates to vote for.
+
+By Md Jahin Sabur
