@@ -4,5 +4,6 @@ The voting machine is designed for 3 candidates with output size of 32 bits. Use
 There is another combinational always block that runs on clock signal whereas the always block of state machine works on state and inputs. simulated on Multisim 10.4 and Active HDL.
 
 # State Diagram
-![Voting State Diagram](Images/Voting-State-Diagram.png)
+<img src="Images/Voting-State-Diagram.png" alt="Voting State Diagram" width="500">
+
 
