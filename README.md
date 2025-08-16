@@ -1,10 +1,20 @@
-# Digital Voting Machine VHDL - Codec Technologies Internship
-A digital voting machine implemented in both Behavioral model and Structural model. The design was first implemented in behavioral and then in structural using components.
+# Digital Voting Machine with Secure Memory
 
-# 1) Behavioral Model
-The behavioral model is designed by using the finite state machine. This gives a clear understanding of its working.
+## 📌 Overview
+This project implements a **Digital Voting Machine (DVM)** using VHDL on an FPGA platform.  
+It supports secure vote storage, multiple candidates, and error handling.  
+Developed as part of **Codec Technologies Internship 2025**.
 
-# 2) Structural Model
-It is made by adding an asynchronous reset up counter as its components. The number of counters added dpend upon the number of candidates to vote for.
+## 🎯 Features
+- State machine-based design
+- Candidate vote counting logic
+- Debouncing logic for switches
+- Secure EEPROM-like memory simulation
+- Testbench for validation
 
-By Md Jahin Sabur
+## 🛠️ Tools Used
+- VHDL
+- ModelSim / Vivado
+- GitHub for version control
+
+## 📂 Folder Structure
